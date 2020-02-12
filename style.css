@@ -1,0 +1,22 @@
+.foto-perfil {
+    
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    border-radius: 48%;
+}
+
+p {
+    font-family: Lato, 'helvetica neue', Arial, Helvetica, sans-serif;
+    color: black !important;
+}
+
+footer {
+    margin: 0px;
+    scroll-padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
